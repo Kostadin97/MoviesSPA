@@ -1,4 +1,3 @@
-const firebase = require('firebase');
 const UserModel = firebase.auth();
 const DB = firebase.firestore();
 
